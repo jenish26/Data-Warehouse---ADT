@@ -1,10 +1,10 @@
 # Data-Warehouse---Advance Database Topics
 
-This project is about the implementation of Data Warehouse and performing different methodologies of data handling and warehousing. 
-Here, we will be implementing operations like Data Cleaning, Data Filteration, defining schemas, analyzing data, 
-constructing warehouse, OLAP operation and making Visual Grahphs for the data.
+This project is about the implementation of Data Warehouse and performing different methodologies of data handling and warehousing.Here, we will be implementing operations like Data Cleaning, Data Filteration, defining schemas, analyzing data,constructing warehouse, OLAP operation and making Visual Grahphs for the data.
  
+Data was gathered and saved in Accidents.csv file. Then the data was then transformed from a csv file to a public URL for simple access.
 
+Data: https://www.dropbox.com/s/i4bnh4ynkoka0po/Accidents.csv?dl=1
 
 Team Members:
 1) Aasthaba Zala
