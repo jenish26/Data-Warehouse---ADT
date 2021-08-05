@@ -16,8 +16,8 @@ Team Members:
 3) Darsh Parikh
 
 Tools and Technologies Used:
-1) Python libraries: Numpy, Pandas, Matplotlib
+1) Python libraries: Numpy and Pandas
 2) Jupyter Notebook
-3) Draw.io 
+3) PowerBi 
 4) Jira
 5) GitHub
