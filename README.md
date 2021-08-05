@@ -18,6 +18,7 @@ Team Members:
 Tools and Technologies Used:
 1) Python libraries: Numpy and Pandas
 2) Jupyter Notebook
-3) PowerBi 
-4) Jira
-5) GitHub
+3) PostgreSQL
+4) PowerBi 
+5) Jira
+6) GitHub
