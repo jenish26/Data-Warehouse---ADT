@@ -6,6 +6,10 @@ Data was gathered and saved in Accidents.csv file. Then the data was then transf
 
 Data: https://www.dropbox.com/s/i4bnh4ynkoka0po/Accidents.csv?dl=1
 
+Data Warehouse: https://www.dropbox.com/s/cxorr4gu7u9r5ge/accident_data_warehouse.sql?dl=0
+
+PowerBI Report : https://app.powerbi.com/view?r=eyJrIjoiNWNiNTA0NWMtMDRkNy00NTdiLTg1ZDUtOGMxOTgxNjE3ZTg3IiwidCI6IjljMDE4MTUyLWE2ZDItNDQwYy1iMDZkLTA1N2U1MGEwZWMxOSJ9&pageName=ReportSection
+
 Team Members:
 1) Aasthaba Zala
 2) Jenish Patel
